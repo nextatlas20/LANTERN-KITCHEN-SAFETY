@@ -1,0 +1,14 @@
+item_id,name,kind
+MAT-101,Sesame Paste,ingredient
+MAT-102,Chili Oil,ingredient
+MAT-103,Rice Noodles,ingredient
+MAT-104,Coconut Milk,ingredient
+MAT-105,Lime Stock,ingredient
+MAT-106,Peanut Crumble,ingredient
+PRD-201,Fire Broth,component
+PRD-202,Coconut Base,component
+PRD-203,Harbor Bowl,menu
+PRD-204,Garden Bowl,menu
+PRD-205,Night Bowl,menu
+PRD-206,Lime Dressing,component
+PRD-207,Side Salad,menu
