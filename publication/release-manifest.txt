@@ -1,0 +1,4 @@
+release=ingredient-cascade-21460217
+affected_records=7
+active_notices=2
+published_artifacts=3
